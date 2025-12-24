@@ -1,6 +1,6 @@
 # 🛡️ VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud
 
-Welcome to my Github Page **VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud**.
+Welcome to my **VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud**.
 This blog is dedicated to exploring Microsoft Azure and Azure Security. Before diving into advanced solutions like Microsoft Defender for Cloud, we’ll start by covering Microsofts approach to Cloud Security by focusing on the fundamentals and core security principles of Azure.
 
 Understanding these basics is essential for building a strong foundation in Azure security. Once that foundation is in place, we’ll move on to advanced topics in Azure.
@@ -8,7 +8,7 @@ Understanding these basics is essential for building a strong foundation in Azur
 ## ⚽ Goal of this Series
 
 The goal of this series is to help guide and support cloud professionals, whether you’re just starting out or already deep into the world of Azure security.
-I’ll be sharing my own experiences with Microsoft Azure Security, beginning with the basics and gradually moving into more advanced topics.
+I’ll be sharing my own experiences with Microsoft Azure Security, beginning with the basics and gradually moving  into more advanced topics.
 
 As the series grows, my hope is that it becomes a helpful go-to resource for anyone working with or curious about Microsoft Azure and Microsoft's cloud security platform.
 
@@ -16,7 +16,7 @@ As the series grows, my hope is that it becomes a helpful go-to resource for any
 
 | # | Title | Link |
 |--:|:------|:-----|
-| 1 | Introducing Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach | [Read Now](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) |
+| 1 | Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach | [Coming Soon](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) |
 
 <!-- Future Articles ideas
 | 2 | Defending the Cloud: A Beginner’s Journey | Coming Soon |
@@ -54,4 +54,3 @@ As the series grows, my hope is that it becomes a helpful go-to resource for any
 💬 Open an [issue](https://github.com/GlennVandenborre/cloudsec-azure-defenderforcloud/issues) to suggest topics 
 
 <!--👉 Follow the LinkedIn Newsletter [My Azure Cloud Journey](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7133453959347761153) for updates -->
-
