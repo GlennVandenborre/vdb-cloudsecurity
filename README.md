@@ -16,7 +16,7 @@ As the series grows, my hope is that it becomes a helpful go-to resource for any
 
 | # | Title | Link |
 |--:|:------|:-----|
-| 1 | Introducing Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach | [Coming Soon](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) |
+| 1 | Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach | [Coming Soon](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) |
 
 <!-- Future Articles ideas
 | 2 | Defending the Cloud: A Beginner’s Journey | Coming Soon |
