@@ -1,4 +1,4 @@
-# 🛡️ VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud
+# 🛡️ VDB Cloud Security Blog
 
 Welcome to my Github Page **VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud**.
 This blog is dedicated to exploring Microsoft Azure and Azure Security. Before diving into advanced solutions like Microsoft Defender for Cloud, we’ll start by covering Microsofts approach to Cloud Security by focusing on the fundamentals and core security principles of Azure.
