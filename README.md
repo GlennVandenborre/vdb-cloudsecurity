@@ -1,6 +1,7 @@
 # 🛡️ VDB Cloud Security Blog
 
-Welcome to my **VDB Cloud Security Blog**.
+Welcome to my **VDB Cloud Security Blog**!
+
 This blog is dedicated to exploring Microsoft Azure and Azure Security. Before diving into advanced solutions like Microsoft Defender for Cloud, we’ll start by covering Microsofts approach to Cloud Security by focusing on the fundamentals and core security principles of Azure.
 
 Understanding these basics is essential for building a strong foundation in Azure security. Once that foundation is in place, we’ll move on to advanced topics in Azure.
