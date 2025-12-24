@@ -1,3 +1,3 @@
-## Introducing Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach
+## Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach
 
 ### >>> Coming Soon
