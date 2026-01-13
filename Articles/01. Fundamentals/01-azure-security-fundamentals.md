@@ -12,7 +12,7 @@ As for Microsoft, they support their customers with different Security tools lik
 So, what are these security layers?
 Well Microsoft's Defense in Depth strategy is built on 7 Security Layers. Each layer will focus on different aspects of Security. Together these layers will collaborate to secure your cloud environment against increasing and evolving threats.
 
-<p style="text-align: center;"><img src="../../Images/defense-in-depth.jpg" alt="alt text" ></p>
+<p style="text-align: center"><img src="../../Images/defense-in-depth.jpg" alt="alt text" ></p>
 
 ### 2.1 Layer 1: The Physical Security Layer
 
