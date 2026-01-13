@@ -19,6 +19,7 @@ As the series grows, my hope is that it becomes a helpful go-to resource for any
 | # | Title | Link |
 |--:|:------|:-----|
 | 1 | Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach, Zero Trust and CIA Principles | [Read Now](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) |
+| 2 | Microsoft Azure Fundamentals – Your First Steps in the Cloud | [Coming Soon](/Articles/01.%20Fundamentals/02-azure-fundamentals.md) |
 
 <!-- Future Articles ideas
 | 2 | Defending the Cloud: A Beginner’s Journey | Coming Soon |
