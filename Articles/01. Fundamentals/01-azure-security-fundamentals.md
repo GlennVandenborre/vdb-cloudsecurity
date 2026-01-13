@@ -12,7 +12,7 @@ As for Microsoft, they support their customers with different Security tools lik
 So, what are these security layers?
 Well Microsoft's Defense in Depth strategy is built on 7 Security Layers. Each layer will focus on different aspects of Security. Together these layers will collaborate to secure your cloud environment against increasing and evolving threats.
 
-<div style="text-align: center;"><img src="../../Images/defense-in-depth.jpg" alt="alt text" width="60%"></div>
+<p style="text-align: center"><img src="../../Images/defense-in-depth.jpg" alt="alt text" ></p>
 
 ### 2.1 Layer 1: The Physical Security Layer
 
@@ -50,7 +50,7 @@ MFA typically combines 3 methods to make it work:
 
 Conditional Access is a security mechanism in Entra ID that serves as an engine in your environment to enforce access policies based on configured conditions. It is a key component of the Zero Trust Security model.
 
-<div style="text-align:center;"><img src="../../Images/conditional-access.jpg" alt="alt text" width="60%"></div>
+<p style="text-align: center"><img src="../../Images/conditional-access.jpg" alt="alt text" width="60%"></p>
 
 In short, Conditional Access lets you define rules on how your users can access organizational resources. Conditional Access will evaluate a lot of signals before granting access to a business resource.
 
@@ -62,7 +62,7 @@ All these factors will determine if a user can access organizational resources o
 
 Privileged Identity Management or PIM is a feature in Entra ID that lets you manage, control and monitor privileged access to resources in both Azure and M365. This feature requires an Entra P2 license.
 
-<div style="text-align: center;"><img src="../../Images/PIM.jpg" alt="alt text" width="60%"></div>
+<p style="text-align: center"><img src="../../Images/PIM.jpg" alt="alt text" width="60%"></p>
 
 Actually you can see PIM as Just-in-Time Access. You only activate your permissions or roles when you need them and this with a least privilege mindset. It eliminates having permanent permissions on resources in Azure or M365, which strengthens your Identity Security and reduces the risks in case of a compromised account or credential theft.
 
@@ -147,7 +147,7 @@ Azure SQL Database offers several built-in security features to protect your dat
 Cybersecurity is built on 3 fundamental principles: Confidentiality, Integrity and Availability.
 In the industry this is often referred to as the CIA Triad.
 
-<div style="text-align: center;"><img src="../../Images/cia.jpg" alt="alt text" width="60%"></div>
+<p style="text-align: center"><img src="../../Images/cia.jpg" alt="alt text" width="60%"></p>
 
 ### 3.1 Confidentiality
 
@@ -165,7 +165,7 @@ The principle of Availability means you have to ensure access to your organizati
 
 The Zero Trust Strategy is a security strategy based on the principle of "never trust, always verify." This means that no user, device or network location is trusted, whether inside or outside your corporate network. These days we are in a flexible work environment, where employees access resources from literally everywhere, the attack surface has expanded significantly. Organizations must adopt Zero Trust to reduce risk and protect critical assets.
 
-<div style="text-align: center;"><img src="../../Images/zero-trust.jpg" alt="alt text" width="60%"></div>
+<div style="width:60%; margin: auto;"><img src="../../Images/zero-trust.jpg" alt="alt text" width="60%"></div>
 
 The Zero Trust Strategy is based on three core principles, which I will elaborate further below.
 
