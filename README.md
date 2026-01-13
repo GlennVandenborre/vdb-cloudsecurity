@@ -1,4 +1,6 @@
-# 🛡️ VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud
+# 🛡️ VDB Cloud Security Blog
+
+Welcome to my **VDB Cloud Security Blog**!
 
 Welcome to my **VDB Cloud Security Blog - Microsoft Azure & Defender for Cloud**.
 This blog is dedicated to exploring Microsoft Azure and Azure Security. Before diving into advanced solutions like Microsoft Defender for Cloud, we’ll start by covering Microsofts approach to Cloud Security by focusing on the fundamentals and core security principles of Azure.
@@ -16,7 +18,7 @@ As the series grows, my hope is that it becomes a helpful go-to resource for any
 
 | # | Title | Link |
 |--:|:------|:-----|
-| 1 | Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach, Zero Trust and CIA Principles | [Read Now](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) |
+| 1 | Microsoft Azure Security Fundamentals - Understanding Microsoft's Defense in Depth Approach, Zero Trust and CIA Principles | [Read Now](/Articles/01.%20Fundamentals/01-azure-security-fundamentals.md) | 
 
 <!-- Future Articles ideas
 | 2 | Defending the Cloud: A Beginner’s Journey | Coming Soon |
