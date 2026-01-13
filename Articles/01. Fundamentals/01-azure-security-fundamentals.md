@@ -50,7 +50,7 @@ MFA typically combines 3 methods to make it work:
 
 Conditional Access is a security mechanism in Entra ID that serves as an engine in your environment to enforce access policies based on configured conditions. It is a key component of the Zero Trust Security model.
 
-<div style="text-align: center;"><img src="../../Images/conditional-access.jpg" alt="alt text" width="60%"></div>
+<div style="text-align:center;"><img src="../../Images/conditional-access.jpg" alt="alt text" width="60%"></div>
 
 In short, Conditional Access lets you define rules on how your users can access organizational resources. Conditional Access will evaluate a lot of signals before granting access to a business resource.
 
