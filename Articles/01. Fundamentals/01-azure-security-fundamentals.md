@@ -165,7 +165,7 @@ The principle of Availability means you have to ensure access to your organizati
 
 The Zero Trust Strategy is a security strategy based on the principle of "never trust, always verify." This means that no user, device or network location is trusted, whether inside or outside your corporate network. These days we are in a flexible work environment, where employees access resources from literally everywhere, the attack surface has expanded significantly. Organizations must adopt Zero Trust to reduce risk and protect critical assets.
 
-<div style="width:60%; margin: auto;"><img src="../../Images/zero-trust.jpg" alt="alt text" width="60%"></div>
+<p style="text-align: center"><img src="../../Images/zero-trust.jpg" alt="alt text" width="60%"></p>
 
 The Zero Trust Strategy is based on three core principles, which I will elaborate further below.
 
