@@ -62,7 +62,7 @@ All these factors will determine if a user can access organizational resources o
 
 Privileged Identity Management or PIM is a feature in Entra ID that lets you manage, control and monitor privileged access to resources in both Azure and M365. This feature requires an Entra P2 license.
 
-<div style="text-align: center;"><img src="../../Images/pim.jpg" alt="alt text" width="60%"></div>
+<div style="text-align: center;"><img src="../../Images/PIM.jpg" alt="alt text" width="60%"></div>
 
 Actually you can see PIM as Just-in-Time Access. You only activate your permissions or roles when you need them and this with a least privilege mindset. It eliminates having permanent permissions on resources in Azure or M365, which strengthens your Identity Security and reduces the risks in case of a compromised account or credential theft.
 
